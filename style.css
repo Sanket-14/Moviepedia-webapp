@@ -120,13 +120,22 @@ main{
 }
 
 #login-button button:hover {
-    background: gold;
+    background: rgb(91, 218, 66);
     /* color: #fff; */
     border-radius: 5px;
-    box-shadow: 0 0 5px gold,
-                0 0 25px gold,
-                0 0 50px gold,
-                0 0 100px gold;
+    box-shadow: 0 0 5px rgb(91, 218, 66),
+                0 0 25px rgb(91, 218, 66),
+                0 0 50px rgb(91, 218, 66),
+                0 0 100px rgb(91, 218, 66);
+}
+#signup-button button:hover {
+  background:rgb(8, 159, 205);
+  /* color: #fff; */
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgb(8, 159, 205),
+              0 0 25px rgb(8, 159, 205),
+              0 0 50px rgb(8, 159, 205),
+              0 0 100px rgb(8, 159, 205);
 }
 
 /* .heading:hover , marquee:hover {

@@ -14,15 +14,15 @@ getMovies(APIURL);
 
 async function getMovies(url) {
   const resp = await fetch(url);
-  console.log(resp);
+  // console.log(resp);
   const respData = await resp.json();
  
 
   
-  console.log(respData);
+  // console.log(respData);
   
   showMovies(respData.results);
-  console.log(respData.results);
+  // console.log(respData.results);
 
 }
 
@@ -31,7 +31,7 @@ function showMovies(movies) {
   main.innerHTML = "";
   movies.forEach((movie) => {
     const { poster_path, title, vote_average, overview } = movie;
-    // raja
+    
     const movieEl = document.createElement("div");
     movieEl.classList.add("movie");
 

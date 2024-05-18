@@ -1,0 +1,15 @@
+https://api.themoviedb.org/3/trending/movie/week?api_key=7456a33850084554e3a824c16cb3486b
+
+
+https://api.themoviedb.org/3/movie/movie_id/release_dates?api_key=7456a33850084554e3a824c16cb3486b
+
+https://api.themoviedb.org/3/discover/tv?api_key=7456a33850084554e3a824c16cb3486b
+
+https://api.themoviedb.org/3/movie/changes?api_key=7456a33850084554e3a824c16cb3486b
+
+https://api.themoviedb.org/3/movie/upcoming?api_key=7456a33850084554e3a824c16cb3486b
+
+https://api.themoviedb.org/3/movie/top_rated?api_key=7456a33850084554e3a824c16cb3486b
+
+https://api.themoviedb.org/3/movie/popular?api_key=7456a33850084554e3a824c16cb3486b
+
